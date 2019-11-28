@@ -1,0 +1,8 @@
+{
+  "name": "to_do",
+  "version": "1.0.0",
+  "description": "to do app",
+  "main": "index.js",
+  "author": "chunchunrin",
+  "license": "MIT"
+}
